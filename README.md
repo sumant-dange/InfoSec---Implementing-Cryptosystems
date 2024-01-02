@@ -1,7 +1,7 @@
 # InfoSec---Implementing-Cryptosystems
 The "Implementing Cryptosystems" project provides a holistic approach to cryptographic solutions, catering to both private and public-key requirements. It seamlessly blends historical methods like the Caesar and Substituting Ciphers with contemporary techniques such as the Vigenère Cipher for enhanced private communication security. Furthermore, it incorporates advanced encryption standards like AES for robust data protection. For secure key establishment and communication, the project employs the Diffie-Hellman Key Exchange and RSA Encryption. With a user-friendly 
 interface and built using trusted languages like Python and Java, it guarantees both reliability and ease of use. 
-\n
+
 
 •	Server and client code: 
 The server code (Client 1) can run remotely on another device and still allow the client to connect to it. It maintains significant control over the entire communication process. Multiple checks are implemented at each step to verify the client's authenticity, with a specialized function, 'authenticate_client,' defined for this purpose.
