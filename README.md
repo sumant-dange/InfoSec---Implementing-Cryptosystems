@@ -46,4 +46,4 @@ This file served as the testing platform for small code snippets. These snippets
 
 
 •	gui.py: 
-A sample GUI interface is included in the GitHub repository. This serves as an example GUI that could be implemented to enhance user experience, streamline the process, and prove to be an invaluable asset.
+A sample GUI interface is included in this GitHub repository. This serves as an example GUI that could be implemented to enhance user experience, streamline the process, and prove to be an invaluable asset.
